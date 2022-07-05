@@ -18,9 +18,13 @@ NavigationLink: creates links to other views when we tap on the element wrapped.
 
 LazyGrid: as its name says, it allows us to create a grid of views, giving us a lot of flexibility because Swift will be in charge of readjusting the layout every time when change not only the orientation, but also the size of the screen.
 
-###### Missions
+###### Missions as a grid
 
 <img src="missions_screen.png" width="250">
+
+###### Missions as a list
+
+<img src="missions_list_screen.png" width="250">
 
 ###### Mission view
 
